@@ -18,7 +18,5 @@ public class NotebookForManufacturer extends Computer {
         System.out.println("Details cost: " + notebookForManufacturer.getDetailsCost());
         System.out.println("Serial number: " + notebookForManufacturer.getSerialNumber());
         System.out.println("Motherboard supplier: " + notebookForManufacturer.getMotherboardSupplier());
-
-
     }
 }
